@@ -2,7 +2,7 @@ O 'Weasel Program' é uma experiência feita para demonstrar como uma populaçã
 
 '*ME THINKS IT IS LIKE A WEASEL*'
 
-Esse programa é inspirado no 'teorema do macaco infinito', que diz que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito, eventualmente irá criar qualquer texto desejado, como por exemplo uma obra de William Shakespeare. Entretanto, esse cenário é praticamente impossível, pois a chance do macaco digitar aa frase que queremos é de 1 em 27^28.
+Esse programa é inspirado no 'teorema do macaco infinito', que diz que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito, eventualmente irá criar qualquer texto desejado, como por exemplo uma obra de William Shakespeare. Entretanto, esse cenário é praticamente impossível, pois a chance do macaco digitar a frase de 28 caracteres que queremos é de 1 em 27^28.
 
 Podemos contornar esse imprevisto com um algoritmo genético computacional, pois além de digitar inúmeros indívuduos de 28 caractes em um velocidade incrivelmente mais rápida, os descendentes estão sujeitos a mutações aleatórias que certamente agilizam ainda mais o objetivo desejado.
 
