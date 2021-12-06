@@ -2,11 +2,11 @@ O 'Weasel Program' é uma experiência feita para demonstrar como uma populaçã
 
 '*ME THINKS IT IS LIKE A WEASEL*'
 
-Esse programa é inspirado no 'teorema do macaco infinito', que diz que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito, eventualmente irá criar qualquer texto desejado, como por exemplo uma obra de William Shakespeare. Entretanto, esse cenário é praticamente impossível, pois a chance do macaco digitar aa frase que queremos é de 1 em 27^28.
+Esse programa é inspirado no 'teorema do macaco infinito', que diz que um macaco digitando aleatoriamente em um teclado por um intervalo de tempo infinito, eventualmente irá criar qualquer texto desejado, como por exemplo uma obra de William Shakespeare. Entretanto, esse cenário é praticamente impossível, pois a chance do macaco digitar a frase de 29 caracteres que queremos é de 1 em 27^29.
 
-Podemos contornar esse imprevisto com um algoritmo genético computacional, pois além de digitar inúmeros indívuduos de 28 caractes em um velocidade incrivelmente mais rápida, os descendentes estão sujeitos a mutações aleatórias que certamente agilizam ainda mais o objetivo desejado.
+Podemos contornar esse imprevisto com um algoritmo genético computacional, pois além de digitar inúmeros indívuduos de 29 caractes em um velocidade incrivelmente mais rápida, os descendentes estão sujeitos a mutações aleatórias que certamente agilizam ainda mais o objetivo desejado.
 
-O programa gera randomicamente uma string de 28 caracteres e realiza N cópias da mesma. Entretanto, cada cópia possui uma certa chance de mutação em cada um dos caracteres. Feito isso, ele avalia todos os indíviduos da população e seleciona o mais próximo da frase desejada. Ele será a string base para a próxima geração e o processo se repete até que a frase seja alcançada.
+O programa gera randomicamente uma string de 29 caracteres e realiza N cópias da mesma. Entretanto, cada cópia possui uma certa chance de mutação em cada um dos caracteres. Feito isso, ele avalia todos os indíviduos da população e seleciona o mais próximo da frase desejada. Ele será a string base para a próxima geração e o processo se repete até que a frase seja alcançada.
 
 Exemplo:
 
