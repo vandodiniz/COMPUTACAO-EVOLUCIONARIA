@@ -4,3 +4,9 @@ O problema das oito rainhas é o problema matemático de dispor oito rainhas em 
 O algoritmo genético criado gera uma população aleatoriamente de possiveis soluções candidatas e reproduz as melhores com o passar das gerações na tentativa de encontrar uma solução perfeita. Além disso, é possível que ocorra alguma mutação ao longo desse processo que modifique os indívudos gerados apartir de um cruzamento. 
 
 Com isso, podemos ver na prática o que acontece com uma população quando submetida a um ou mais fatores exclusivos, ou seja, a seleção artificial.
+
+---
+
+* O arquivo 'modulo.py' contém as funções desenvoldidas para o algoritmo.
+* O arquivo 'testes.ipynb' contém os testes das funções.
+* O arquivo 'N-Queens-Problem.ipynb' contém o algoritmo genético propriamente dito.
