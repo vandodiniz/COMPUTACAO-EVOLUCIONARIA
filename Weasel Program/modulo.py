@@ -1,6 +1,5 @@
 import random as rd
 import numpy as np
-import matplotlib.pyplot as plt
 import string
 
 #VARIÁVEIS GLOBAIS QUE DITAM O COMPORTAMENTO DA POPULAÇÃO
@@ -56,6 +55,7 @@ def popFitness(pop):
     pop_fitness = [analisaCaso(each_solution) for each_solution in pop]      #analisa o fitness de todos os elementos de pop e o armazena em uma lista      
     return pop_fitness
 
+import matplotlib.pyplot as plt
 def grafico(geracoes,bests):
     figura = plt.figure(figsize=(20,4))
     figura.add_subplot(131)
