@@ -25,4 +25,6 @@ Geração X: METHINKS IT IS LIKE A WEASEL
 
 ---
 
-O arquivo 'modulo.py' contém as funções desenvoldidas para o algoritmo, o arquivo 'testes.ipynb' contém os testes das funções e o arquivo 'Weasel-Program.ipynb' contém o algoritmo genético propriamente dito.
+* O arquivo 'modulo.py' contém as funções desenvoldidas para o algoritmo.
+* O arquivo 'testes.ipynb' contém os testes das funções.
+* O arquivo 'Weasel-Program.ipynb' contém o algoritmo genético propriamente dito.
