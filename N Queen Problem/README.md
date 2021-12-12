@@ -6,7 +6,3 @@ O algoritmo genético criado gera uma população aleatoriamente de possiveis so
 Com isso, podemos ver na prática o que acontece com uma população quando submetida a um ou mais fatores exclusivos, ou seja, a seleção artificial.
 
 ---
-
-* O arquivo 'modulo.py' contém as funções desenvoldidas para o algoritmo.
-* O arquivo 'testes.ipynb' contém os testes das funções.
-* O arquivo 'N-Queens-Problem.ipynb' contém o algoritmo genético propriamente dito.
