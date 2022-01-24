@@ -5,3 +5,4 @@ Algorítmos criados:
 * N Queen Problem
 * Weasel Program
 * Knapsack Problem
+
