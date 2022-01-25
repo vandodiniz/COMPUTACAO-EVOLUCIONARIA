@@ -5,4 +5,5 @@ Algorítmos criados:
 * N Queen Problem
 * Weasel Program
 * Knapsack Problem
-
+* Análise DE
+* Análise PSO
